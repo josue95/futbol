@@ -1,0 +1,6 @@
+git clone https://github.com/ED2016/DAM.git
+git branch Zuniga_Adrian
+git checkout Zuniga_Adrian
+git add Zuniga_Adrian.txt
+git commit -m "Añadimos el archivo Zuniga_Adrian.txt al branch Zuniga_Adrian"
+git push --set-upstream origin Zuniga_Adrian
