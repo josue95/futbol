@@ -1,8 +1,8 @@
 git clone https://github.com/ED2016/DAM.git
 
-git branch Marcos
+git branch marcos_pineda
 
-git checkout Marcos
+git checkout marcos_pineda
 
 git add .
 
