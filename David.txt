@@ -1,0 +1,9 @@
+git clone https://github.com/ED2016/DAM.git //Para clonar el archivo
+git branch DavidRR//Crear rama 
+git checkout DavidRR//Cambiar rama
+git push origin DavidRR//Crear Branch
+git add David.txt//Añadir archivo
+git status
+git merge DavidRR//Actualizar
+git remote add David.txt DavidRR//Subir archivo
+git push origin DavidRR//AÑADIR
