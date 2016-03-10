@@ -1,5 +1,7 @@
 - git init
 - git clone https://github.com/ED2016/DAM
 - git checkout -b clara_subiron
-- cd dam
+- cd dam //ir a mi path
 - git add clarasubiron.txt
+- git commit -m "Clara FTW!"
+- git push origin clara_subiron
