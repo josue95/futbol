@@ -5,3 +5,7 @@ git branch Marcos
 git checkout Marcos
 
 git add .
+
+git commit -m "add"
+
+git push origin marcos_pineda
