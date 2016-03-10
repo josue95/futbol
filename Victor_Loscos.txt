@@ -1,0 +1,4 @@
+git clone (descargar el repositorio)
+git chekout -b (crear y cambir a esa rama)
+git commit (para guardar los cambios)
+git push -u origin master (para subir el achivo)
