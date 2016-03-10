@@ -1,0 +1,8 @@
+clone git://github.com/ED2016/DAM.git
+cd dam
+git branch jmble
+git checkout -b jmble
+git add jmble.txt
+git commit -m "jmble_concurso"
+git config --global user.email "you@example.com"
+git push origin jmble
