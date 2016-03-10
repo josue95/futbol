@@ -1,0 +1,5 @@
+git clone https://github.com/ED2016/DAM
+git checkout -b AdrianAlonso
+git add C:\Users\FurgoleroPro\DAM
+git commit -m
+git push origin AdrianAlonso
