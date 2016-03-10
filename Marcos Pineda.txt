@@ -4,3 +4,4 @@ git branch Marcos
 
 git checkout Marcos
 
+git add .
