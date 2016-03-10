@@ -1,0 +1,5 @@
+- git init
+- git clone https://github.com/ED2016/DAM
+- git checkout -b clara_subiron
+- cd dam
+- git add clarasubiron.txt
